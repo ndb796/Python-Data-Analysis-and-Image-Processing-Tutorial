@@ -10,9 +10,9 @@
 * [Numpy의 활용](/05.%20Numpy의%20활용/)
 * [OpenCV 소개 및 기본 사용법](/06.%20OpenCV%20소개%20및%20기본%20사용법/)
 * [OpenCV 이미지 연산](/07.%20OpenCV%20이미지%20연산/)
-* OpenCV 이미지 변형
-* OpenCV 이미지 합치기
-* OpenCV 임계점 처리하기
+* [OpenCV 이미지 변형](/08.%20OpenCV%20이미지%20변형/)
+* [OpenCV 이미지 합치기](/09.%20OpenCV%20이미지%20합치기/)
+* [OpenCV 임계점 처리하기](/10.%20OpenCV%20임계점%20처리하기/)
 * OpenCV Tracker
 * OpenCV 도형 그리기
 * OpenCV Contours
