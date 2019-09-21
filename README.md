@@ -25,7 +25,7 @@
 * [중급 Captcha Hacking 3 - 데이터 정제](/20.%20중급%20Captcha%20Hacking%203%20-%20데이터%20정제/)
 * [중급 Captcha Hacking 4 - KNN 모델 학습](/21.%20중급%20Captcha%20Hacking%204%20-%20KNN%20모델%20학습/)
 * [중급 Captcha Hacking 5 - 해킹 자동화](/22.%20중급%20Captcha%20Hacking%205%20-%20해킹%20자동화/)
-* Pandas의 기본 사용법
+* [Pandas의 기본 사용법](/23.%20Pandas의%20기본%20사용법/)
 * Pandas의 연산과 함수
 * Pandas의 활용
 * Matplotlib 라이브러리의 기초
