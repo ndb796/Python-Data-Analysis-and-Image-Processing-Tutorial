@@ -26,10 +26,10 @@
 * [중급 Captcha Hacking 4 - KNN 모델 학습](/21.%20중급%20Captcha%20Hacking%204%20-%20KNN%20모델%20학습/)
 * [중급 Captcha Hacking 5 - 해킹 자동화](/22.%20중급%20Captcha%20Hacking%205%20-%20해킹%20자동화/)
 * [Pandas의 기본 사용법](/23.%20Pandas의%20기본%20사용법/)
-* Pandas의 연산과 함수
-* Pandas의 활용
-* Matplotlib 라이브러리의 기초
-* Matplotlib 라이브러리 다루기
+* [Pandas의 연산과 함수](/24.%20Pandas의%20연산과%20함수/)
+* [Pandas의 활용](/25.%20Pandas의%20활용/)
+* [Matplotlib 라이브러리의 기초](/26.%20Matplotlib%20라이브러리의%20기초/)
+* [Matplotlib 라이브러리 다루기](/27.%20Matploblib%20라이브러리%20다루기/)
 * 웹 크롤링
 * 네이버 영화 리뷰 데이터 분석 1 - 영화 정보 크롤링
 * 네이버 영화 리뷰 데이터 분석 2 - 데이터 시각화
